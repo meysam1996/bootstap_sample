@@ -1,0 +1,20 @@
+body{
+    background-color: #f1f1f1 !important;
+}
+
+.jumbotron{
+    background-color: #f1f1f1 !important;
+}
+
+.footer{
+    background-color: #616161 !important;
+    height: 10rem;
+}
+
+.profile{
+    width: 27rem;
+}
+
+.side1{
+    width: 27rem;
+}
